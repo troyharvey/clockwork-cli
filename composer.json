@@ -18,7 +18,6 @@
     "require": {
         "php": ">=5.3",
         "itsgoingd/clockwork": "1.*"
-        
     },
     "autoload": {
         "psr-4": {
